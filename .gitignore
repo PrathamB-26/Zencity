@@ -1,7 +1,14 @@
 node_modules/
-.env
-__pycache__/
-*.pyc
+**/node_modules/
 dist/
+**/dist/
+.env
+**/.env
+__pycache__/
+**/__pycache__/
+*.pyc
 .DS_Store
 *.log
+uploads/*.jpg
+uploads/*.png
+uploads/*.webp
