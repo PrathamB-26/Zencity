@@ -1,0 +1,1072 @@
+{
+  "generated_at": "2026-10-08T16:25:32.732988",
+  "data_source": "seed_sql_parser",
+  "kpis": {
+    "total_complaints": 1100,
+    "pending_complaints": 242,
+    "resolved_complaints": 651,
+    "in_progress_complaints": 122,
+    "rejected_complaints": 85,
+    "resolution_rate": 59.2,
+    "average_resolution_time_days": 2.17,
+    "average_resolution_time_hours": 52.1,
+    "average_citizen_rating": 4.08,
+    "overdue_complaints": 363
+  },
+  "category_statistics": {
+    "most_common": {
+      "category_name": "Waterlogging",
+      "count": 124,
+      "percentage": 11.27
+    },
+    "least_common": {
+      "category_name": "Stray Animals",
+      "count": 50,
+      "percentage": 4.55
+    },
+    "category_breakdown": [
+      {
+        "category_name": "Waterlogging",
+        "count": 124,
+        "percentage": 11.27
+      },
+      {
+        "category_name": "Pothole",
+        "count": 108,
+        "percentage": 9.82
+      },
+      {
+        "category_name": "Water Leakage",
+        "count": 107,
+        "percentage": 9.73
+      },
+      {
+        "category_name": "Damaged Road",
+        "count": 98,
+        "percentage": 8.91
+      },
+      {
+        "category_name": "Drainage Blockage",
+        "count": 95,
+        "percentage": 8.64
+      },
+      {
+        "category_name": "Traffic Signal",
+        "count": 71,
+        "percentage": 6.45
+      },
+      {
+        "category_name": "Fallen Tree",
+        "count": 70,
+        "percentage": 6.36
+      },
+      {
+        "category_name": "Damaged Footpath",
+        "count": 69,
+        "percentage": 6.27
+      },
+      {
+        "category_name": "Other Civic Problems",
+        "count": 68,
+        "percentage": 6.18
+      },
+      {
+        "category_name": "Overflowing Garbage Bin",
+        "count": 67,
+        "percentage": 6.09
+      },
+      {
+        "category_name": "Water Supply Interruption",
+        "count": 60,
+        "percentage": 5.45
+      },
+      {
+        "category_name": "Garbage Not Collected",
+        "count": 57,
+        "percentage": 5.18
+      },
+      {
+        "category_name": "Street Light Not Working",
+        "count": 56,
+        "percentage": 5.09
+      },
+      {
+        "category_name": "Stray Animals",
+        "count": 50,
+        "percentage": 4.55
+      }
+    ],
+    "group_breakdown": [
+      {
+        "group": "Water and Drainage",
+        "count": 386
+      },
+      {
+        "group": "Infrastructure",
+        "count": 346
+      },
+      {
+        "group": "Waste Management",
+        "count": 124
+      },
+      {
+        "group": "Public Safety and Other",
+        "count": 118
+      },
+      {
+        "group": "Environment",
+        "count": 70
+      },
+      {
+        "group": "Electricity and Lighting",
+        "count": 56
+      }
+    ]
+  },
+  "time_statistics": {
+    "monthly_series": [
+      {
+        "created_month": "2024-11",
+        "total_complaints": 42,
+        "resolved_complaints": 31
+      },
+      {
+        "created_month": "2024-12",
+        "total_complaints": 38,
+        "resolved_complaints": 23
+      },
+      {
+        "created_month": "2025-01",
+        "total_complaints": 55,
+        "resolved_complaints": 34
+      },
+      {
+        "created_month": "2025-02",
+        "total_complaints": 41,
+        "resolved_complaints": 24
+      },
+      {
+        "created_month": "2025-03",
+        "total_complaints": 51,
+        "resolved_complaints": 26
+      },
+      {
+        "created_month": "2025-04",
+        "total_complaints": 45,
+        "resolved_complaints": 31
+      },
+      {
+        "created_month": "2025-05",
+        "total_complaints": 44,
+        "resolved_complaints": 26
+      },
+      {
+        "created_month": "2025-06",
+        "total_complaints": 55,
+        "resolved_complaints": 32
+      },
+      {
+        "created_month": "2025-07",
+        "total_complaints": 53,
+        "resolved_complaints": 36
+      },
+      {
+        "created_month": "2025-08",
+        "total_complaints": 48,
+        "resolved_complaints": 26
+      },
+      {
+        "created_month": "2025-09",
+        "total_complaints": 44,
+        "resolved_complaints": 21
+      },
+      {
+        "created_month": "2025-10",
+        "total_complaints": 51,
+        "resolved_complaints": 32
+      },
+      {
+        "created_month": "2025-11",
+        "total_complaints": 44,
+        "resolved_complaints": 23
+      },
+      {
+        "created_month": "2025-12",
+        "total_complaints": 38,
+        "resolved_complaints": 19
+      },
+      {
+        "created_month": "2026-01",
+        "total_complaints": 47,
+        "resolved_complaints": 24
+      },
+      {
+        "created_month": "2026-02",
+        "total_complaints": 43,
+        "resolved_complaints": 24
+      },
+      {
+        "created_month": "2026-03",
+        "total_complaints": 40,
+        "resolved_complaints": 23
+      },
+      {
+        "created_month": "2026-04",
+        "total_complaints": 37,
+        "resolved_complaints": 20
+      },
+      {
+        "created_month": "2026-05",
+        "total_complaints": 56,
+        "resolved_complaints": 37
+      },
+      {
+        "created_month": "2026-06",
+        "total_complaints": 59,
+        "resolved_complaints": 37
+      },
+      {
+        "created_month": "2026-07",
+        "total_complaints": 53,
+        "resolved_complaints": 33
+      },
+      {
+        "created_month": "2026-08",
+        "total_complaints": 52,
+        "resolved_complaints": 36
+      },
+      {
+        "created_month": "2026-09",
+        "total_complaints": 60,
+        "resolved_complaints": 32
+      },
+      {
+        "created_month": "2026-10",
+        "total_complaints": 4,
+        "resolved_complaints": 1
+      }
+    ],
+    "trend_slope": -0.14,
+    "trend_direction": "stable",
+    "rising_categories": [
+      "Damaged Footpath",
+      "Garbage Not Collected",
+      "Fallen Tree"
+    ]
+  },
+  "ward_statistics": {
+    "ward_breakdown": [
+      {
+        "ward_id": 11,
+        "ward_name": "Ward 11 - University Heights",
+        "zone": "West Zone",
+        "total_complaints": 109,
+        "resolved_count": 69,
+        "unresolved_count": 35,
+        "unresolved_rate": 32.1
+      },
+      {
+        "ward_id": 8,
+        "ward_name": "Ward 8 - South Ridge",
+        "zone": "South Zone",
+        "total_complaints": 101,
+        "resolved_count": 61,
+        "unresolved_count": 29,
+        "unresolved_rate": 28.7
+      },
+      {
+        "ward_id": 4,
+        "ward_name": "Ward 4 - Tech Corridor",
+        "zone": "West Zone",
+        "total_complaints": 98,
+        "resolved_count": 55,
+        "unresolved_count": 38,
+        "unresolved_rate": 38.8
+      },
+      {
+        "ward_id": 5,
+        "ward_name": "Ward 5 - Industrial Belt",
+        "zone": "East Zone",
+        "total_complaints": 95,
+        "resolved_count": 60,
+        "unresolved_count": 27,
+        "unresolved_rate": 28.4
+      },
+      {
+        "ward_id": 9,
+        "ward_name": "Ward 9 - Lake District",
+        "zone": "South Zone",
+        "total_complaints": 92,
+        "resolved_count": 61,
+        "unresolved_count": 26,
+        "unresolved_rate": 28.3
+      },
+      {
+        "ward_id": 10,
+        "ward_name": "Ward 10 - Metro Junction",
+        "zone": "Central Zone",
+        "total_complaints": 90,
+        "resolved_count": 52,
+        "unresolved_count": 31,
+        "unresolved_rate": 34.4
+      },
+      {
+        "ward_id": 3,
+        "ward_name": "Ward 3 - Green Meadows",
+        "zone": "West Zone",
+        "total_complaints": 89,
+        "resolved_count": 52,
+        "unresolved_count": 30,
+        "unresolved_rate": 33.7
+      },
+      {
+        "ward_id": 7,
+        "ward_name": "Ward 7 - Heritage Quarter",
+        "zone": "Central Zone",
+        "total_complaints": 88,
+        "resolved_count": 53,
+        "unresolved_count": 26,
+        "unresolved_rate": 29.5
+      },
+      {
+        "ward_id": 2,
+        "ward_name": "Ward 2 - Riverside North",
+        "zone": "North Zone",
+        "total_complaints": 86,
+        "resolved_count": 47,
+        "unresolved_count": 32,
+        "unresolved_rate": 37.2
+      },
+      {
+        "ward_id": 12,
+        "ward_name": "Ward 12 - Eastern Suburbs",
+        "zone": "East Zone",
+        "total_complaints": 85,
+        "resolved_count": 44,
+        "unresolved_count": 34,
+        "unresolved_rate": 40.0
+      },
+      {
+        "ward_id": 1,
+        "ward_name": "Ward 1 - Central Market",
+        "zone": "Central Zone",
+        "total_complaints": 84,
+        "resolved_count": 51,
+        "unresolved_count": 26,
+        "unresolved_rate": 31.0
+      },
+      {
+        "ward_id": 6,
+        "ward_name": "Ward 6 - Airport Boulevard",
+        "zone": "North Zone",
+        "total_complaints": 83,
+        "resolved_count": 46,
+        "unresolved_count": 30,
+        "unresolved_rate": 36.1
+      }
+    ],
+    "most_problematic_ward": {
+      "ward_id": 11,
+      "ward_name": "Ward 11 - University Heights",
+      "zone": "West Zone",
+      "total_complaints": 109,
+      "resolved_count": 69,
+      "unresolved_count": 35,
+      "unresolved_rate": 32.1
+    },
+    "highest_unresolved_ward": {
+      "ward_id": 12,
+      "ward_name": "Ward 12 - Eastern Suburbs",
+      "zone": "East Zone",
+      "total_complaints": 85,
+      "resolved_count": 44,
+      "unresolved_count": 34,
+      "unresolved_rate": 40.0
+    },
+    "primary_issues": [
+      {
+        "ward_name": "Ward 1 - Central Market",
+        "primary_category": "Waterlogging",
+        "count": 12
+      },
+      {
+        "ward_name": "Ward 10 - Metro Junction",
+        "primary_category": "Drainage Blockage",
+        "count": 14
+      },
+      {
+        "ward_name": "Ward 11 - University Heights",
+        "primary_category": "Damaged Road",
+        "count": 16
+      },
+      {
+        "ward_name": "Ward 12 - Eastern Suburbs",
+        "primary_category": "Water Leakage",
+        "count": 15
+      },
+      {
+        "ward_name": "Ward 2 - Riverside North",
+        "primary_category": "Water Leakage",
+        "count": 11
+      },
+      {
+        "ward_name": "Ward 3 - Green Meadows",
+        "primary_category": "Damaged Road",
+        "count": 10
+      },
+      {
+        "ward_name": "Ward 4 - Tech Corridor",
+        "primary_category": "Other Civic Problems",
+        "count": 10
+      },
+      {
+        "ward_name": "Ward 5 - Industrial Belt",
+        "primary_category": "Damaged Road",
+        "count": 9
+      },
+      {
+        "ward_name": "Ward 6 - Airport Boulevard",
+        "primary_category": "Waterlogging",
+        "count": 13
+      },
+      {
+        "ward_name": "Ward 7 - Heritage Quarter",
+        "primary_category": "Water Leakage",
+        "count": 12
+      },
+      {
+        "ward_name": "Ward 8 - South Ridge",
+        "primary_category": "Water Leakage",
+        "count": 12
+      },
+      {
+        "ward_name": "Ward 9 - Lake District",
+        "primary_category": "Pothole",
+        "count": 13
+      }
+    ],
+    "heatmap_matrix": {
+      "wards": [
+        "Central Market",
+        "Metro Junction",
+        "University Heights",
+        "Eastern Suburbs",
+        "Riverside North",
+        "Green Meadows",
+        "Tech Corridor",
+        "Industrial Belt",
+        "Airport Boulevard",
+        "Heritage Quarter",
+        "South Ridge",
+        "Lake District"
+      ],
+      "categories": [
+        "Damaged Footpath",
+        "Damaged Road",
+        "Drainage Blockage",
+        "Fallen Tree",
+        "Garbage Not Collected",
+        "Other Civic Problems",
+        "Overflowing Garbage Bin",
+        "Pothole",
+        "Stray Animals",
+        "Street Light Not Working",
+        "Traffic Signal",
+        "Water Leakage",
+        "Water Supply Interruption",
+        "Waterlogging"
+      ],
+      "values": [
+        [
+          5,
+          9,
+          7,
+          5,
+          2,
+          6,
+          4,
+          7,
+          3,
+          6,
+          3,
+          11,
+          4,
+          12
+        ],
+        [
+          6,
+          7,
+          14,
+          6,
+          3,
+          7,
+          4,
+          9,
+          4,
+          4,
+          3,
+          7,
+          7,
+          9
+        ],
+        [
+          7,
+          16,
+          9,
+          9,
+          5,
+          9,
+          6,
+          12,
+          5,
+          0,
+          8,
+          6,
+          4,
+          13
+        ],
+        [
+          2,
+          9,
+          6,
+          7,
+          5,
+          2,
+          4,
+          8,
+          4,
+          4,
+          5,
+          15,
+          1,
+          13
+        ],
+        [
+          7,
+          8,
+          6,
+          4,
+          5,
+          6,
+          4,
+          7,
+          7,
+          7,
+          2,
+          11,
+          4,
+          8
+        ],
+        [
+          7,
+          10,
+          7,
+          9,
+          3,
+          5,
+          4,
+          7,
+          5,
+          3,
+          7,
+          9,
+          5,
+          8
+        ],
+        [
+          4,
+          8,
+          6,
+          6,
+          5,
+          10,
+          9,
+          9,
+          5,
+          6,
+          8,
+          6,
+          7,
+          9
+        ],
+        [
+          6,
+          9,
+          7,
+          9,
+          6,
+          3,
+          9,
+          9,
+          2,
+          9,
+          8,
+          2,
+          7,
+          9
+        ],
+        [
+          6,
+          8,
+          7,
+          2,
+          6,
+          1,
+          6,
+          12,
+          2,
+          3,
+          5,
+          7,
+          5,
+          13
+        ],
+        [
+          7,
+          5,
+          8,
+          4,
+          6,
+          7,
+          4,
+          9,
+          6,
+          4,
+          3,
+          12,
+          6,
+          7
+        ],
+        [
+          4,
+          5,
+          10,
+          4,
+          6,
+          7,
+          9,
+          6,
+          4,
+          7,
+          11,
+          12,
+          6,
+          10
+        ],
+        [
+          8,
+          4,
+          8,
+          5,
+          5,
+          5,
+          4,
+          13,
+          3,
+          3,
+          8,
+          9,
+          4,
+          13
+        ]
+      ]
+    }
+  },
+  "department_statistics": {
+    "department_breakdown": [
+      {
+        "department_id": 1,
+        "department_name": "Road Department",
+        "total_assigned": 414,
+        "resolved_count": 256,
+        "in_progress_count": 44,
+        "pending_count": 89,
+        "avg_res_days": 3.49,
+        "avg_rating": 4.19,
+        "resolution_rate": 61.8
+      },
+      {
+        "department_id": 5,
+        "department_name": "Drainage Department",
+        "total_assigned": 219,
+        "resolved_count": 121,
+        "in_progress_count": 25,
+        "pending_count": 49,
+        "avg_res_days": 2.07,
+        "avg_rating": 4.06,
+        "resolution_rate": 55.3
+      },
+      {
+        "department_id": 4,
+        "department_name": "Waste Management",
+        "total_assigned": 174,
+        "resolved_count": 106,
+        "in_progress_count": 16,
+        "pending_count": 44,
+        "avg_res_days": 0.86,
+        "avg_rating": 4.02,
+        "resolution_rate": 60.9
+      },
+      {
+        "department_id": 2,
+        "department_name": "Water Department",
+        "total_assigned": 167,
+        "resolved_count": 94,
+        "in_progress_count": 28,
+        "pending_count": 33,
+        "avg_res_days": 1.04,
+        "avg_rating": 3.92,
+        "resolution_rate": 56.3
+      },
+      {
+        "department_id": 6,
+        "department_name": "Environment Department",
+        "total_assigned": 70,
+        "resolved_count": 47,
+        "in_progress_count": 5,
+        "pending_count": 9,
+        "avg_res_days": 1.26,
+        "avg_rating": 4.08,
+        "resolution_rate": 67.1
+      },
+      {
+        "department_id": 3,
+        "department_name": "Electricity Department",
+        "total_assigned": 56,
+        "resolved_count": 27,
+        "in_progress_count": 4,
+        "pending_count": 18,
+        "avg_res_days": 0.82,
+        "avg_rating": 4.0,
+        "resolution_rate": 48.2
+      }
+    ],
+    "fastest_department": {
+      "department_id": 3,
+      "department_name": "Electricity Department",
+      "total_assigned": 56,
+      "resolved_count": 27,
+      "in_progress_count": 4,
+      "pending_count": 18,
+      "avg_res_days": 0.82,
+      "avg_rating": 4.0,
+      "resolution_rate": 48.2
+    },
+    "highest_workload_department": {
+      "department_id": 1,
+      "department_name": "Road Department",
+      "total_assigned": 414,
+      "resolved_count": 256,
+      "in_progress_count": 44,
+      "pending_count": 89,
+      "avg_res_days": 3.49,
+      "avg_rating": 4.19,
+      "resolution_rate": 61.8
+    }
+  },
+  "resolution_statistics": {
+    "status_distribution": [
+      {
+        "status": "RESOLVED",
+        "count": 430
+      },
+      {
+        "status": "CLOSED",
+        "count": 221
+      },
+      {
+        "status": "SUBMITTED",
+        "count": 127
+      },
+      {
+        "status": "IN_PROGRESS",
+        "count": 122
+      },
+      {
+        "status": "ASSIGNED",
+        "count": 115
+      },
+      {
+        "status": "REJECTED",
+        "count": 85
+      }
+    ],
+    "avg_resolution_hours": 52.1,
+    "avg_resolution_days": 2.17,
+    "min_resolution_hours": 3.0,
+    "max_resolution_hours": 560.0,
+    "pct_resolved_24h": 37.3,
+    "pct_resolved_48h": 65.0,
+    "overdue_count": 363,
+    "priority_resolution_hours": {
+      "CRITICAL": 38.5,
+      "HIGH": 40.9,
+      "LOW": 80.9,
+      "MEDIUM": 62.5
+    },
+    "box_plot_data": [
+      {
+        "department": "Drainage",
+        "q25": 1.04,
+        "median": 1.75,
+        "q75": 2.38,
+        "lower_whisker": 0.38,
+        "upper_whisker": 4.38,
+        "outliers_count": 5
+      },
+      {
+        "department": "Electricity",
+        "q25": 0.42,
+        "median": 0.58,
+        "q75": 0.92,
+        "lower_whisker": 0.21,
+        "upper_whisker": 1.67,
+        "outliers_count": 1
+      },
+      {
+        "department": "Environment",
+        "q25": 0.65,
+        "median": 1.08,
+        "q75": 1.35,
+        "lower_whisker": 0.25,
+        "upper_whisker": 2.42,
+        "outliers_count": 1
+      },
+      {
+        "department": "Road",
+        "q25": 1.71,
+        "median": 2.62,
+        "q75": 4.05,
+        "lower_whisker": 0.54,
+        "upper_whisker": 7.57,
+        "outliers_count": 12
+      },
+      {
+        "department": "Waste Management",
+        "q25": 0.43,
+        "median": 0.65,
+        "q75": 0.98,
+        "lower_whisker": 0.12,
+        "upper_whisker": 1.81,
+        "outliers_count": 8
+      },
+      {
+        "department": "Water",
+        "q25": 0.5,
+        "median": 0.79,
+        "q75": 1.12,
+        "lower_whisker": 0.21,
+        "upper_whisker": 2.06,
+        "outliers_count": 3
+      }
+    ],
+    "correlation_volume_resolution": 0.47,
+    "scatter_points": [
+      {
+        "ward_name": "Ward 1 - Central Market",
+        "volume": 84,
+        "avg_res_days": 2.142156862745098
+      },
+      {
+        "ward_name": "Ward 10 - Metro Junction",
+        "volume": 90,
+        "avg_res_days": 2.3725961538461537
+      },
+      {
+        "ward_name": "Ward 11 - University Heights",
+        "volume": 109,
+        "avg_res_days": 2.8134057971014492
+      },
+      {
+        "ward_name": "Ward 12 - Eastern Suburbs",
+        "volume": 85,
+        "avg_res_days": 1.6060606060606062
+      },
+      {
+        "ward_name": "Ward 2 - Riverside North",
+        "volume": 86,
+        "avg_res_days": 1.8980496453900708
+      },
+      {
+        "ward_name": "Ward 3 - Green Meadows",
+        "volume": 89,
+        "avg_res_days": 1.873397435897436
+      },
+      {
+        "ward_name": "Ward 4 - Tech Corridor",
+        "volume": 98,
+        "avg_res_days": 2.30530303030303
+      },
+      {
+        "ward_name": "Ward 5 - Industrial Belt",
+        "volume": 95,
+        "avg_res_days": 2.598611111111111
+      },
+      {
+        "ward_name": "Ward 6 - Airport Boulevard",
+        "volume": 83,
+        "avg_res_days": 2.4121376811594204
+      },
+      {
+        "ward_name": "Ward 7 - Heritage Quarter",
+        "volume": 88,
+        "avg_res_days": 1.775943396226415
+      },
+      {
+        "ward_name": "Ward 8 - South Ridge",
+        "volume": 101,
+        "avg_res_days": 1.7595628415300546
+      },
+      {
+        "ward_name": "Ward 9 - Lake District",
+        "volume": 92,
+        "avg_res_days": 2.218579234972678
+      }
+    ]
+  },
+  "feedback_statistics": {
+    "total_feedbacks": 523,
+    "average_rating": 4.08,
+    "rating_distribution": [
+      {
+        "rating": 5.0,
+        "count": 237,
+        "percentage": 45.3
+      },
+      {
+        "rating": 4.0,
+        "count": 167,
+        "percentage": 31.9
+      },
+      {
+        "rating": 3.0,
+        "count": 71,
+        "percentage": 13.6
+      },
+      {
+        "rating": 2.0,
+        "count": 22,
+        "percentage": 4.2
+      },
+      {
+        "rating": 1.0,
+        "count": 26,
+        "percentage": 5.0
+      }
+    ],
+    "department_ratings": [
+      {
+        "department_name": "Road Department",
+        "avg_rating": 4.19,
+        "feedback_count": 210
+      },
+      {
+        "department_name": "Environment Department",
+        "avg_rating": 4.08,
+        "feedback_count": 37
+      },
+      {
+        "department_name": "Drainage Department",
+        "avg_rating": 4.06,
+        "feedback_count": 93
+      },
+      {
+        "department_name": "Waste Management",
+        "avg_rating": 4.02,
+        "feedback_count": 83
+      },
+      {
+        "department_name": "Electricity Department",
+        "avg_rating": 4.0,
+        "feedback_count": 21
+      },
+      {
+        "department_name": "Water Department",
+        "avg_rating": 3.92,
+        "feedback_count": 79
+      }
+    ],
+    "category_ratings": [
+      {
+        "category_name": "Pothole",
+        "avg_rating": 4.33,
+        "feedback_count": 55
+      },
+      {
+        "category_name": "Damaged Road",
+        "avg_rating": 4.24,
+        "feedback_count": 50
+      },
+      {
+        "category_name": "Stray Animals",
+        "avg_rating": 4.24,
+        "feedback_count": 25
+      },
+      {
+        "category_name": "Overflowing Garbage Bin",
+        "avg_rating": 4.23,
+        "feedback_count": 31
+      },
+      {
+        "category_name": "Damaged Footpath",
+        "avg_rating": 4.2,
+        "feedback_count": 40
+      },
+      {
+        "category_name": "Drainage Blockage",
+        "avg_rating": 4.15,
+        "feedback_count": 39
+      },
+      {
+        "category_name": "Water Supply Interruption",
+        "avg_rating": 4.15,
+        "feedback_count": 27
+      },
+      {
+        "category_name": "Fallen Tree",
+        "avg_rating": 4.08,
+        "feedback_count": 37
+      },
+      {
+        "category_name": "Traffic Signal",
+        "avg_rating": 4.07,
+        "feedback_count": 30
+      },
+      {
+        "category_name": "Street Light Not Working",
+        "avg_rating": 4.0,
+        "feedback_count": 21
+      },
+      {
+        "category_name": "Waterlogging",
+        "avg_rating": 4.0,
+        "feedback_count": 54
+      },
+      {
+        "category_name": "Other Civic Problems",
+        "avg_rating": 3.97,
+        "feedback_count": 35
+      },
+      {
+        "category_name": "Water Leakage",
+        "avg_rating": 3.81,
+        "feedback_count": 52
+      },
+      {
+        "category_name": "Garbage Not Collected",
+        "avg_rating": 3.59,
+        "feedback_count": 27
+      }
+    ]
+  },
+  "charts": [
+    "complaints_by_category.png",
+    "complaints_over_time.png",
+    "complaint_status.png",
+    "complaints_by_ward.png",
+    "department_performance.png",
+    "resolution_time.png",
+    "complaints_vs_resolution.png",
+    "ward_category_heatmap.png"
+  ]
+}
